@@ -5,6 +5,7 @@ public class Ex01 {
 		// TODO Auto-generated method stub
 		System.out.println("Test~~");
 		System.out.println("test 22222");
+		System.out.println("third up~~!!");
 	}
 
 }
